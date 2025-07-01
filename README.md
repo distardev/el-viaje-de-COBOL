@@ -85,6 +85,8 @@ g++ src/*.cpp -o cobol -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ## 🧠 Inspiración
 
 Inspirado en la estética del minijuego de la taberna "el viaje del rey de la pradera" del videojuego Stardew Valley.
+
+
 ![JOPK_Level_2_1](https://github.com/user-attachments/assets/d5c4e161-94f8-4da7-8294-5e99874391d5)
 ![JOPK_Level_1_2](https://github.com/user-attachments/assets/43e0a8e4-12f7-4dc4-8600-28cba934c09f)
 ![JOPK_logo_ES](https://github.com/user-attachments/assets/a26df50e-af87-4d2b-896e-206b72908931)
